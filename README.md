@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Social banner for jaceeeeee](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/potw2101a.jpg)]
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
