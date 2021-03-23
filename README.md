@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hiyaa! :yum:</h1>
 <p align='center'>
 It's Jace here!
 </p>
 <p align='center'>Well, I think you would know how to reach out to me by now.</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>Come back in a while..</i></h1>
 
 
 
