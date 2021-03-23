@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align='center'>
 It's Jace here!
 </p>
-<p align='center'>Well, I think you would know how to reach out to me by now<a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+<p align='center'>Well, I think you would know how to reach out to me by now.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
