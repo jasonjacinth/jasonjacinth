@@ -20,7 +20,7 @@ It's Jace here!
 </p>
 <p align='center'>Well, I think you would know how to reach out to me by now.</p>
 
-<h1 align='center'><i>Come back in a while..</i></h1>
+<h6 align='center'><i>NA</i></h6>
 
 
 
