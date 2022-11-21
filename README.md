@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 
 -->
 
-<h1 align='center'>Hiyaa! :yum: :yum:</h1>
+<h1 align='center'>:yum:</h1>
 <p align='center'>
-It's Jace here!
+Jace
 </p>
-<p align='center'>Well, I think you would know how to reach out to me by now.</p>
+<p align='center'>inactive</p>
 
 <h6 align='center'><i>NA</i></h6>
 
