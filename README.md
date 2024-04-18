@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 
 -->
 
-<h1 align='center'>:yum:</h1>
-<p align='center'>
-Jace
-</p>
 <p align='center'>inactive</p>
 
 <h6 align='center'><i>NA</i></h6>
