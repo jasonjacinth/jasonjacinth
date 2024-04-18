@@ -1,5 +1,5 @@
 <!--
-**jaceeeeee/jaceeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jasonjacinth/jasonjacinth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,10 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 
 -->
-
-<p align='center'>inactive</p>
-
 <h6 align='center'><i>NA</i></h6>
-
-
-
