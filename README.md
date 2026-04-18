@@ -13,10 +13,10 @@ I specialize in container orchestration, infrastructure automation, and building
 
 ### When I'm not in a terminal, you'll find me
 
-* Tracking lap times and driver gaps in **Formula 1**
-* Hunting for Easter eggs in **Red Dead Redemption 2**
-* Optimizing my fitness routine and nutritional goals
-* Worrying that we are on the verge of World War III. I mean that seriously—and not just because I’m terrified it might happen before the **GTA VI** launch.
+* Tracking lap times and driver gaps in F1
+* Hunting for Easter eggs in RDR2
+* Optimizing my fitness routine and protein intake
+* Worrying that we are on the verge of World War 3. I mean that seriously & not just because I’m terrified it might happen before the GTA VI
 
 ---
 
