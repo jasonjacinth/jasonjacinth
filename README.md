@@ -1,6 +1,5 @@
-# 𝒥𝒶𝓈𝑜𝓃 𝒥𝒶𝒸𝒾𝓃𝓉𝒽
-
-**Cloud Platform Engineer | Nokia**
+# 𝐉ᴀsᴏɴ 𝐉ᴀᴄɪɴᴛʜ
+**𝐂𝐋𝐎𝐔𝐃 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑 | 𝐍𝐎𝐊𝐈𝐀**
 
 I specialize in container orchestration, infrastructure automation, and building developer-centric tooling. My focus is on writing clean, multi-arch code that simplifies complex operations at scale.
 
