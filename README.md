@@ -13,8 +13,8 @@ I specialize in container orchestration, infrastructure automation, and building
 ### When I'm not in a terminal, you'll find me
 
 * Tracking lap times and driver gaps in F1
-* Hunting for Easter eggs in RDR2
-* Optimizing my fitness routine and protein intake
+* Hunting for Easter eggs in RDR2 
+* Optimizing my protein intake (I like to think I am)
 * Picking intellectual fights with strangers on reddit
 * Dreading the onset of World War 3 and not just because it might happen before GTA VI
 
